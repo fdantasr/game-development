@@ -12,7 +12,6 @@ racket1.h = 80 --altura
 -- Centraliza racket1 no eixo y
 racket1.y = height /2 - 40
 
-
 ball = {}
 ball.w = 20
 ball.h = 20
