@@ -78,4 +78,3 @@ end
         player.y = y
     end
 end
-end
